@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @volandon
-- 👀 I’m interested in data science and backend development
+- 👀 I’m interested in data engineering and backend development
 - 🌱 I’m currently learning python and SQL
 - 📫 How to reach me lucas.landon.val@gmail.com
 
